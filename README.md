@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fancypantspance
-- 👀 I’m interested in transportation and data science
+- 👀 I’m interested in transportation, GTFS and data science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on transport related data science applications
 - 📫 How to reach me kpance@gmail.com
